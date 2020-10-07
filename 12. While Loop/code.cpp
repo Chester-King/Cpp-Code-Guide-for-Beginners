@@ -11,6 +11,13 @@ int main(){
         cout << n << endl;
     }
     
+    // Do while loop
+    int x=0;
+
+    do
+    {
+        cout<<x<<endl;
+    }while(x++<=5);
 
     return 0;
 }
